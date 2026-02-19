@@ -7,6 +7,7 @@ Veredas_de_Colombia.json
 */Veredas_de_Colombia.json
 
 # Documentacion - pdfs
+Documentacion/
 Documentacion/*.pdf
 
 # Build results
